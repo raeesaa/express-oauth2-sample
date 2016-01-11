@@ -1,0 +1,38 @@
+{
+  "name": "express-oauth2-sample",
+  "version": "1.0.0",
+  "description": "Sample implementation of https://github.com/thomseddon/node-oauth2-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raeesaa/express-oauth2-sample.git"
+  },
+  "keywords": [
+    "oauth2",
+    "node",
+    "express",
+    "secure",
+    "REST",
+    "APIs",
+    "secure",
+    "express.js",
+    "APIs",
+    "secure",
+    "node",
+    "APIs"
+  ],
+  "author": "Raeesaa M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raeesaa/express-oauth2-sample/issues"
+  },
+  "homepage": "https://github.com/raeesaa/express-oauth2-sample",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.3.5",
+    "oauth2-server": "^2.4.1"
+  }
+}
